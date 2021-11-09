@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import AppHeader from './components/AppHeader';
 import UserList from './components/UserList';
 
@@ -10,6 +9,6 @@ function App() {
       <UserList />
       </div>
   );
-}
+};
 
 export default App;
